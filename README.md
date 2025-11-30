@@ -2,8 +2,6 @@
 
 A full-stack B2B SaaS MVP designed to detect AI-generated images used in food delivery refund fraud. This system analyzes uploaded evidence photos for metadata inconsistencies and AI generation artifacts to assign a risk score.
 
-![Dashboard Screenshot](screenshot.png)
-*(Add a screenshot of your dashboard here and name it screenshot.png)*
 
 ## 🚀 Features
 
